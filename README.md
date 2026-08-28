@@ -9,7 +9,7 @@
 - Extract the zipped file, run DavinciRPC.exe and you're set!
 
 ## Info:
-- If you want DavinciRPC to track which page you're currently on (such as Edit, Fusion, Color, etc.), you need to have DaVinci Resolve Studio, otherwise it will just say "Editing in Davinci Resolve". This is because page tracking requires access to the "External Scripting Using" option, which is only available in the Studio version.
+- If you want DavinciRPC to track which page you're currently on (such as Edit, Fusion, Color, etc.), you need to have Davinci Resolve Studio, otherwise it will just say "Editing in Davinci Resolve". This is because page tracking requires access to the "External Scripting Using" option, which is only available in the Studio version.
 - DavinciRPC is completely safe and does not contain any viruses.
 - If you don't want to run the exe everytime you boot up your pc, feel free to add it to your startup folder. (Win + R ; paste "shell:startup" and drag DavinciRPC.exe in the folder.)
 
