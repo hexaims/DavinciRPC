@@ -6,7 +6,7 @@
 
 ## How do I use it?
 - Download DavinciRPC [here](https://github.com/user-attachments/files/31578028/DavinciRPC.zip).
-- Run it and you're set!
+- Extract the zipped file, run DavinciRPC and you're set!
 
 ## Info:
 - If you want DavinciRPC to track which page you're currently on (such as Edit, Fusion, Color, etc.), you need to have DaVinci Resolve Studio, otherwise it will just say "Editing in Davinci Resolve". This is because page tracking requires access to the "External Scripting Using" option, which is only available in the Studio version.
