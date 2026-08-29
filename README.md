@@ -15,4 +15,4 @@
 
 ## Need Help?
 
-If you have any questions or need help setting up DavinciRPC, feel free to contact me on Discord [@0bh6](https://discord.com/users/302534543125118987)
+If you have any questions or need help setting up DavinciRPC, feel free to contact me on Discord [@hexaims](https://discord.com/users/302534543125118987)
