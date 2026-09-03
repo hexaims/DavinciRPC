@@ -5,8 +5,8 @@
 <img width="394" height="141" alt="image" src="https://github.com/user-attachments/assets/c662ce5f-4ba5-4849-ba30-fa92da9184ce" /> <img width="386" height="135" alt="image" src="https://github.com/user-attachments/assets/65212aae-ee63-4c0a-8d80-e4d8e0b194a0" /> <img width="388" height="138" alt="image" src="https://github.com/user-attachments/assets/936be7c0-2411-4df0-923a-1fd224ae1ea5" /> <img width="389" height="135" alt="image" src="https://github.com/user-attachments/assets/4213fb0b-91c9-41f4-891b-0f70e73cd3e0" />
 
 ## How do I use it?
-- Download DavinciRPC [here](https://github.com/user-attachments/files/31811935/DavinciRPC.zip).
-- Extract the zipped file, run DavinciRPC.exe and you're set!
+- Download DavinciRPC [here](https://github.com/hexaims/DavinciRPC/releases/download/v1.0/DavinciRPC.exe).
+- Run DavinciRPC.exe and you're set!
 
 ## Info:
 - If you want DavinciRPC to track which page you're currently on (such as Edit, Fusion, Color, etc.), you need to have Davinci Resolve Studio, otherwise it will just say "Editing in Davinci Resolve". This is because page tracking requires access to the "External Scripting Using" option, which is only available in the Studio version.
