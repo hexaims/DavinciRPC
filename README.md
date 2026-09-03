@@ -12,7 +12,7 @@
 - If you want DavinciRPC to track which page you're currently on (such as Edit, Fusion, Color, etc.), you need to have Davinci Resolve Studio, otherwise it will just say "Editing in Davinci Resolve". This is because page tracking requires access to the "External Scripting Using" option, which is only available in the Studio version.
 - DavinciRPC is completely safe and does not contain any virus.
 - If you don't want to run the exe everytime you boot up your pc, feel free to add it to your startup folder. (Win + R ; paste "shell:startup" and drag DavinciRPC.exe in the folder.)
-- You can enable or disable the Davinci RPC by opening the hidden icons in the Windows taskbar — just click the little arrow (^) and find the Davinci RPC icon.
+- You can enable or disable the Davinci RPC by opening the hidden icons in the Windows taskbar, just click the little arrow (^) and find the Davinci RPC icon.
  <img width="538" height="247" alt="image" src="https://github.com/user-attachments/assets/b6f25970-0e28-4f9a-a077-ffdc45999643" />
 
 ## Need Help?
