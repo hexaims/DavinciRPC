@@ -2,7 +2,7 @@
 *Discord Rich Presence (RPC) for Davinci Resolve (Works for Free & Studio version) written in python.* 
 
 ## How does it look like?
-<img width="394" height="141" alt="image" src="https://github.com/user-attachments/assets/0ea6de59-dccb-4058-8396-136fea334489" /><img width="394" height="141" alt="image" src="https://github.com/user-attachments/assets/f420314e-80b7-4227-8346-292ebb3025f8" /><img width="388" height="138" alt="image" src="https://github.com/user-attachments/assets/9270c19c-f71c-499b-bdbf-71c057d70180" />
+<img width="394" height="141" alt="image" src="https://github.com/user-attachments/assets/c662ce5f-4ba5-4849-ba30-fa92da9184ce" /> <img width="386" height="135" alt="image" src="https://github.com/user-attachments/assets/65212aae-ee63-4c0a-8d80-e4d8e0b194a0" /> <img width="388" height="138" alt="image" src="https://github.com/user-attachments/assets/936be7c0-2411-4df0-923a-1fd224ae1ea5" /> <img width="389" height="135" alt="image" src="https://github.com/user-attachments/assets/4213fb0b-91c9-41f4-891b-0f70e73cd3e0" />
 
 ## How do I use it?
 - Download DavinciRPC [here](https://github.com/user-attachments/files/31578028/DavinciRPC.zip).
