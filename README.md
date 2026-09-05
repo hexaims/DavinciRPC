@@ -18,3 +18,4 @@
 ## Need Help?
 
 If you have any questions or need help setting up DavinciRPC, feel free to contact me on Discord [@hexaims](https://discord.com/users/302534543125118987)
+I know DavinciRPC is currently getting false flagged as a virus by some antivirus, and I am working into fixing it.
